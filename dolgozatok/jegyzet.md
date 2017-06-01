@@ -13,10 +13,10 @@ git config --global push.default matching
 .gitignporemfile tarmazzza azokat a mappákat amiket ne vegysen figyel
 ```
 ad .gitignore
-## commit otljuk azoka a féjloka amelyekke hozzáattuk
+### commitotljuk azokat a fá1jlokat amelyekket hozzáadtuk
 
 
-## a commitot pusholni kell ekkorr adódik hozzá a távoli repohoz
+### a commitot pusholni kell ekkorr adódik hozzá a távoli repohoz
 ```
 git push
 ```
